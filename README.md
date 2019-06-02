@@ -1,4 +1,5 @@
-# eb-tomcat-snakes
+
+# eb-tomcat-snakes...........
 Tomcat application that shows the use of RDS in a Java EE web application in AWS Elastic Beanstalk. The project shows the use of Servlets, JSPs, Simple Tag Support, Tag Files, JDBC, SQL, Log4J, Bootstrap, Jackson, and Elastic Beanstalk configuration files.
 
 ## INSTRUCTIONS
@@ -188,6 +189,4 @@ Only files required to run the application are included in the WAR. Uncompiled j
 
 A Windows version of the build script ``build-windows.sh`` is also included. Note that the classpath arguments are separated by semicolons instead of colons.
 
-
-hi 
 
